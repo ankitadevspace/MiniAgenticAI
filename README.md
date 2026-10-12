@@ -1,6 +1,6 @@
 # MiniAgent - a tool-using AI agent with RAG in C#
 
-[![CI](https://github.com/ankitadevspace/csharp-ai-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/csharp-ai-agent/actions)
+[![CI](https://github.com/ankitadevspace/MiniAgenticAI/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitadevspace/MiniAgenticAI/actions)
 
 A small customer-support agent that runs in your terminal. You give it a goal; the LLM decides which
 tools to use, in what order, and when it is done. Built **from scratch in C# / .NET 10 with no AI
